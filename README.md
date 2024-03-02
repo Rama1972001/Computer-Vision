@@ -1,4 +1,5 @@
-# Computer-Vision
+# Arabic Handwritten Character Recognition Using CNNs: Course Project Report
+
 ENCS5343 Computer Vision Course Project + Assignment 3
 
 Use the following dataset to train and test the models:
